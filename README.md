@@ -1,3 +1,3 @@
 ChatApp_Tutorial
 ================
-Files save under w06/d01 directory.
+Files saved under w06/d01 directory.
